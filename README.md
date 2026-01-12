@@ -1,5 +1,4 @@
 # RhombixTechnologies_Tasks 
-# Rhombix Technologies Internship Tasks
 
 This repository contains the tasks assigned during my internship at Rhombix Technologies.
 
